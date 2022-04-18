@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on game design and game development!
 
-- 💬 Ask me about **blender, C# and Unity**
+- 💬 Ask me about **Blender, C# and Unity**
 
 - 📫 How to reach me **contact@tugcantopaloglu.me**
 
