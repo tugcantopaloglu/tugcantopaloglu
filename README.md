@@ -7,8 +7,6 @@
 
 - 🎈 I'm also working on adventure game [Demon Inside Us](https://github.com/tugcantopaloglu/demon-inside-us)
 
-- 👨‍💻 All of my projects are available at [tugcantopaloglu.me](tugcantopaloglu.me)
-
 - 📝 I regularly write articles on game design and game development!
 
 - 💬 Ask me about **Blender, C# and Unity**
