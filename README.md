@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [tugcantopaloglu.me](tugcantopaloglu.me)
 
-- 📝 I regularly write articles on [game design and game development!](game design and game development!)
+- 📝 I regularly write articles on game design and game development!
 
 - 💬 Ask me about **blender, C# and Unity**
 
