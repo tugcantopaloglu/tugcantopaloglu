@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on top down rpg game [Archvile](https://github.com/tugcantopaloglu/archvile)
 
-- 🌱 I’m currently learning **Unreal Engine, Swift, Cybersecurity and Go!**
+- 🌱 I’m currently learning **Unreal Engine!**
 
 - 🎈 I'm also working on adventure game [Demon Inside Us](https://github.com/tugcantopaloglu/demon-inside-us)
 
 - 📝 I regularly write articles on game design and game development!
+
+- 👾 Check out my itch.io: https://tugcantopaloglu.itch.io
 
 - 💬 Ask me about **Blender, C# and Unity**
 
