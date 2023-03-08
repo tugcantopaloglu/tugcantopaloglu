@@ -2,9 +2,11 @@
 <h3 align="center">I am a computer engineer from Turkey!</h3>
 <h4 align="center">Currently working as a <strong>Computer Engineer</strong></h4>
 
-- 🔭 I’m currently working on cooking rpg game! 
+- 🌱 I’m currently learning **Unreal Engine** , **Cloud Computing** and **Cybersecurity**
 
-- 🌱 I’m currently learning **Unreal Engine!** , **Cloud Computing** and **Cybersecurity**
+- 🔭 I’m currently working on cooking rpg game which is currently untitled and coming to steam as soon as possible! 
+
+- 🤖 I’m currently working with my companies TUGOS Games and 2HP Games! 
 
 - 🎈 I'm also working on adventure game [Demon Inside Us](https://github.com/tugcantopaloglu/demon-inside-us)
 
