@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuğcan</h1>
-<h3 align="center">I am a computer engineer student from Turkey!</h3>
+<h3 align="center">I am a computer engineer from Turkey!</h3>
+<h4 align="center">Currently working as a **Computer Engineer**</h4>
 
 - 🔭 I’m currently working on cooking rpg game! 
 
