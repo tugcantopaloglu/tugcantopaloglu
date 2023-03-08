@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tuğcan</h1>
 <h3 align="center">I am a computer engineer student from Turkey!</h3>
 
-- 🔭 I’m currently working on top down rpg game [Archvile](https://github.com/tugcantopaloglu/archvile)
+- 🔭 I’m currently working on cooking rpg game! 
 
-- 🌱 I’m currently learning **Unreal Engine!**
+- 🌱 I’m currently learning **Unreal Engine!** , **Cloud Computing** and **Cybersecurity**
 
 - 🎈 I'm also working on adventure game [Demon Inside Us](https://github.com/tugcantopaloglu/demon-inside-us)
 
@@ -11,7 +11,7 @@
 
 - 👾 Check out my itch.io: https://tugcantopaloglu.itch.io
 
-- 💬 Ask me about **Blender, C# and Unity**
+- 💬 Ask me about **.NET, C# and Unity**
 
 - 📫 How to reach me **contact@tugcantopaloglu.me**
 
