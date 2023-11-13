@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine** , **Cloud Security** and **Cybersecurity**
 
-- 🔭 I’m currently working on cooking rpg game which is currently untitled and coming to steam as soon as possible! 
+- 🔭 See what I’m currently working on from [Better Programmer Repo](https://github.com/tugcantopaloglu/better-programmer)! 
 
 - 🤖 I’m currently working with my project 2HP Games! 
 
