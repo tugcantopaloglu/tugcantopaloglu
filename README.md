@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **.NET, C#, Python, Microservices, Linux, Pentesting and Machine Learning!**
 
-- 📫 How to reach me **contact@tugcan.dev**
+- 📫 Reach me at **contact@tugcan.dev**
 
 - 💬 Check out my resume (reach me for more detailed resume)! [https://tugcan.dev/index.php/cv/](https://tugcan.dev/index.php/cv/)
 
