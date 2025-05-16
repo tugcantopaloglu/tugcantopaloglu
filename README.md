@@ -8,7 +8,7 @@
 
 - 👨‍💻 More of my projects and blogs are available at [https://tugcan.dev](https://tugcan.dev)
 
-- 🤖 I am currently developing my startups Secuvor ([https://secuvor.systems](https://secuvor.systems)) and 2HP Games [https://2hp.games](https://2hp.games)!
+- 🤖 I am currently developing my startups Secuvor ([https://secuvor.systems](https://secuvor.systems)) and 2HP Games ([https://2hp.games](https://2hp.games))!
 
 - 💬 Ask me about **.NET, C#, Python, Microservices, Linux, Pentesting and Machine Learning!**
 
