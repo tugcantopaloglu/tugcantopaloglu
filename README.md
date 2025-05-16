@@ -14,8 +14,6 @@
 
 - 📫 Reach me at **contact@tugcan.dev**
 
-- 💬 Check out my resume (reach me for more detailed resume)! [https://tugcan.dev/index.php/cv/](https://tugcan.dev/index.php/cv/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/5y5t3m0v3rdr1v3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5y5t3m0v3rdr1v3" height="30" width="40" /></a>
