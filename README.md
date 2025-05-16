@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuğcan</h1>
 <h3 align="center">A MSc Computer Engineer which passionate about different fields from Turkey</h3>
-<h4 align="center">Currently working as a <strong>Computer Engineer</strong> on <strong>TUSAS/TAI!</strong></h4>
+<h4 align="center">Currently working as a <strong>System Engineer</strong> on <strong>TUSAS/TAI!</strong></h4>
 
 - 🤝 I’m studying Computer Engineering Master of Science at [Yildiz Technical University](https://www.ce.yildiz.edu.tr/)
 
