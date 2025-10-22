@@ -1,23 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tuğcan</h1>
-<h3 align="center">A MSc Computer Engineer which passionate about different fields from Turkey</h3>
-<h4 align="center">Currently working as a <strong>System Engineer</strong> on <strong>TUSAS/TAI!</strong></h4>
-
-- 🤝 I’m studying Computer Engineering Master of Science at [Yildiz Technical University](https://www.ce.yildiz.edu.tr/)
-
-- 🔭 See what I’m currently working on from Better Programmer Repo! [better programmer](https://github.com/tugcantopaloglu/better-programmer)
-
-- 👨‍💻 More of my projects and blogs are available at [https://tugcan.dev](https://tugcan.dev)
-
-- 🤖 I am currently developing my startups Secuvor ([https://secuvor.systems](https://secuvor.systems)) and 2HP Games ([https://2hp.games](https://2hp.games))!
-
-- 💬 Ask me about **.NET, C#, Python, Microservices, Linux, Pentesting and Machine Learning!**
-
-- 📫 Reach me at **contact@tugcan.dev**
+<h1 align="center">hey, I'm Tuğcan</h1>
+<h3 align="center">A MSc Computer Engineer which passionate about different fields.</h3>
+<h5 align="center">developing mostly about security, AI, games and mobile apps (can be find in app store and play store). designing and implementing big systems are one of my hobbies so i regularly write about it. my projects and articles can be found on my <a href="https://tugcan.dev" target="blank">website</a> professional informaiton can be find on my <a href="https://linkedin.com/in/tugcantopaloglu" target="blank">LinkedIn</a>. right now most of my attention is cybersecurity (currently can be said OSCP), system design (k8s,docker and studying to be a kubeastronaut) and AI (LLMs, designing new systems with transformers etc.). if you need collab or more information feel free to reach out on LinkedIn or my website.</h5>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/5y5t3m0v3rdr1v3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5y5t3m0v3rdr1v3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tugcantopaloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugcantopaloglu" height="30" width="40" /></a>
+<a href="https://x.com/tugcantopaloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5y5t3m0v3rdr1v3" height="30" width="40" /></a>
 <a href="https://kaggle.com/tugcantopaloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tugcantopaloglu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/topaloglutugcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="topaloglutugcan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tugcantopaloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tugcantopaloglu" height="30" width="40" /></a>
