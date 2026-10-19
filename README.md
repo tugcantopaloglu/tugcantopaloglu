@@ -1,5 +1,5 @@
 <h1 align="center">hey, I'm Tuğcan</h1>
-<h3 align="center">an MSc Computer Engineer who is passionate about different engineering fields.</h3>
+<h3 align="center">a MSc Computer Engineer who is passionate about different engineering fields.</h3>
 <h5 align="center">mostly developing in security, AI, games, and mobile apps (can be found on the App Store and Play Store). designing and implementing large-scale systems is one of my hobbies, so I regularly write about it. my projects and articles can be found on my <a href="https://tugcan.dev" target="blank">website</a>, and professional information can be found on my <a href="https://linkedin.com/in/tugcantopaloglu" target="blank">LinkedIn</a>. right now most of my attention is on cybersecurity (currently OSCP and LLM security), system design (k8s, docker, and studying to become a Kubestronaut), and AI (LLMs, designing new systems with transformers, etc.). if you want to collaborate or need more information, feel free to reach out on LinkedIn or my website.</h5>
 
 <h3 align="center">Connect with me</h3>
